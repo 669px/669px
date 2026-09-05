@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/669px/669px/main/assets/profile.svg?v=2" width="960" alt="numan@dev — fastfetch" />
+  <img src="https://raw.githubusercontent.com/669px/669px/main/assets/profile.svg?v=3" width="960" alt="numan@dev — fastfetch" />
 </div>
